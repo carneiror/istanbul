@@ -14,6 +14,9 @@
 * [Changelog](https://github.com/gotwarlost/istanbul/blob/master/CHANGELOG.md)
 * [License and credits](#license)
 
+### :exclamation::exclamation: IMPORTANT:exclamation::exclamation:
+This fork only ensure that any path used on coverage files are always absolute. This fixes [issue 110](https://github.com/gotwarlost/istanbul/issues/110)
+
 ### Features
 
 * All-javascript instrumentation library that tracks **statement, branch,
